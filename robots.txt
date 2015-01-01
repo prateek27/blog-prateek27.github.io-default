@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://prateek27.github.io/sitemap.xml 
